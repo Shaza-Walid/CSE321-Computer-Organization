@@ -13,7 +13,3 @@ Course: CSE321-Computer-Organization
 ```
 
 The program uses MIPS system calls to print strings to the console.
-
-### 3. Screenshots
-
-The `screenshots/` directory contains screenshots showing the execution of the programs in QtSPIM.
