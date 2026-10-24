@@ -2,14 +2,6 @@
 
 Lab 1 introduces the basics of MIPS Assembly programming and working with the QtSPIM simulator.
 
-### 1. Section Work (`sectionWork.asm`)
-
-Contains the code and exercises completed during the lab section to practice basic MIPS Assembly instructions.
-
-### 2. Task Work (`taskWork.asm`)
-
-Contains the solution to the assigned lab task.
-
 **Task Requirements:**
 
 Write a MIPS Assembly program that prints the following information:
